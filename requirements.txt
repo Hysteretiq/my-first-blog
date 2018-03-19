@@ -1,0 +1,7 @@
+Django==2.0.1
+django-filter==1.1.0
+django-webpack-loader==0.5.0
+djangorestframework==3.7.7
+Pygments==2.2.0
+pytz==2017.3
+selenium==3.9.0
